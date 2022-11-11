@@ -26,3 +26,6 @@
 
 - If one player passes the last cell, other players cannot move backward.
 - If there is one player remain in the map, game is finished and the winner is announced.
+
+# Structure
+![5-1  Class Diagram - BridgeGame](https://user-images.githubusercontent.com/100896063/201328428-e8751518-85a5-4b91-ae8b-286aa6e36420.png)
